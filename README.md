@@ -346,11 +346,9 @@ alt="Top Languages">
 
 <img
 src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true"
-alt="GitHub Streak">
+alt="Aaditya Jain GitHub Streak">
 
 </div>
-
----
 
 ## 📈 Contribution Activity
 
