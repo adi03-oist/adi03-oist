@@ -357,10 +357,9 @@ alt="Aaditya Jain GitHub Streak">
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true"
 width="100%"
-alt="Contribution Activity">
+alt="Aaditya Jain Contribution Activity">
 
 </div>
-
 ---
 
 ## 📜 Certifications
