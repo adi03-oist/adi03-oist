@@ -1,13 +1,15 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/adi03-oist/adi03-oist/main/banner.png" width="100%" alt="Aaditya Jain">
 
+<img src="https://raw.githubusercontent.com/adi03-oist/adi03-oist/main/banner.png"
+     width="105%"
+     alt="Aaditya Jain">
 <br><br>
 
-# 👋 Hi, I'm Aaditya Jain
+<h1>👋 Hi, I'm Aaditya Jain</h1>
 
-### CSE (Data Science) Student • OIST, Bhopal
+<h3>CSE (Data Science) Student • OIST, Bhopal</h3>
 
-**Learn • Build • Improve**
+<b>Learn • Build • Improve</b>
 
 <br>
 
@@ -27,90 +29,46 @@
 <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel">
 </a>
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150" alt="Coding">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="130" alt="Coding">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
 <table>
 <tr>
 
-<td width="58%">
+<td width="58%" valign="top">
 
-### Hi, I'm Aaditya 👋
+## 👨‍💻 About Me
 
-I'm a CSE (Data Science) student from Bhopal.
+I'm a CSE (Data Science) student from Bhopal, currently learning software development, data science, machine learning and problem solving through regular practice and projects.
 
-I'm currently learning software development, data science,
-machine learning and problem solving through regular practice
-and projects.
-
-- 🌱 Learning **Python, DSA, Data Science & AI/ML**
+- 🌱 Learning **Python, DSA & AI/ML**
 - 💻 Practicing **LeetCode**
-- 📊 Exploring **Machine Learning**
+- 📊 Exploring **Data Science**
 - 🌐 Learning **Web Development**
 - 🤝 Interested in **AI & Data Science projects**
 
 </td>
 
-<td width="42%">
+<td width="42%" valign="top">
 
-### 🎯 Currently Learning
+## 🎯 Currently Learning
 
-🐍 **Python & DSA**
-
+🐍 **Python & DSA**  
 Improving problem solving through practice.
 
-📊 **Data Science**
+📊 **Data Science**  
+Data analysis & ML workflows.
 
-Learning data analysis and ML workflows.
-
-🤖 **AI / ML**
-
+🤖 **AI / ML**  
 Exploring AI-based projects.
 
-🌐 **Web Development**
-
-Learning frontend and backend technologies.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🎯 What I'm Working On
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🧠 DSA
-
-Solving LeetCode problems and improving problem-solving logic with Python.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 AI / ML
-
-Building small AI and machine learning projects while learning.
-
-</td>
-
-<td align="center" width="33%">
-
-### 📊 Data Science
-
-Exploring data analysis, visualization and machine learning.
+🌐 **Web Development**  
+Frontend & backend basics.
 
 </td>
 
@@ -118,98 +76,89 @@ Exploring data analysis, visualization and machine learning.
 </table>
 
 ---
-
 ## 💻 Tech Stack & Tools
 
-<table>
+<div align="center">
 
+<table width="100%">
 <tr>
-<td><b>🐍 Programming</b></td>
-<td>
+
+<td width="49%" valign="top">
+
+**🐍 Programming**
 
 `Python` `C` `C++` `JavaScript`
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td><b>📊 Data Science</b></td>
-<td>
+**📊 Data Science**
 
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Jupyter` `Kaggle`
+`Pandas` `NumPy` `Matplotlib`  
+`Scikit-learn` `Jupyter` `Kaggle`
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td><b>🤖 AI / ML</b></td>
-<td>
+**🤖 AI / ML**
 
 `Machine Learning` `OpenCV` `Generative AI`
 
 </td>
-</tr>
 
-<tr>
-<td><b>🌐 Web</b></td>
-<td>
+<td width="2%"></td>
+
+<td width="49%" valign="top">
+
+**🌐 Web**
 
 `HTML` `CSS` `JavaScript` `React` `Flask` `Node.js`
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td><b>🗄️ Database</b></td>
-<td>
+**🗄️ Database**
 
 `MySQL` `MongoDB` `Firebase`
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td><b>🛠️ Tools</b></td>
-<td>
+**🛠️ Tools**
 
 `Git` `GitHub` `VS Code` `Vercel`
 
 </td>
-</tr>
 
+</tr>
 </table>
 
----
+</div>
 
 ## 🚀 Featured Projects
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 First AI Chatbot
+### 🌾 Farmer Decision System AI
 
-A chatbot project built while exploring AI and conversational applications.
+Machine learning project focused on helping farmers make better data-driven decisions.
 
-**Tech:** `TypeScript` `AI`
+**Tech:** `Python` `Pandas` `Machine Learning`
 
-<a href="https://github.com/adi03-oist/First-AI-chatbot">
+<a href="https://github.com/adi03-oist/Farmer-Decision-System-AI">
 View Repository →
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌦️ Weather API
+### 🧠 InvigilateAI
 
-A web-based weather project using an API to display weather information.
+AI-based smart exam supervision system using computer vision.
 
-**Tech:** `HTML` `API` `JavaScript`
+**Tech:** `Python` `OpenCV` `Streamlit`
 
-<a href="https://github.com/adi03-oist/Weather-API">
+<a href="https://github.com/adi03-oist/InvigilateAi">
 View Repository →
 </a>
 
@@ -219,99 +168,30 @@ View Repository →
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-### 📄 AI Resume & Job Match Analyzer
+### 🏠 House Price Prediction
 
-AI-powered resume and job description analyzer that identifies matched and missing skills.
+Machine learning project for predicting house prices from available features.
 
-**Tech:** `Python` `Streamlit` `AI`
+**Tech:** `Python` `Pandas` `Scikit-learn`
 
-<a href="https://github.com/adi03-oist/AI-resume-and-Job-Match-Analyzer">
+<a href="https://github.com/adi03-oist/House-Price-Prediction-Model">
 View Repository →
 </a>
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🔗 Decentralized Funding System
+### 🚢 Titanic Survival Prediction
 
-A blockchain-based project exploring decentralized funding.
+Machine learning project for analyzing and predicting passenger survival.
 
-**Tech:** `Solidity` `Blockchain`
+**Tech:** `Python` `Pandas` `Scikit-learn`
 
-<a href="https://github.com/adi03-oist/decentralized-funding-system">
+<a href="https://github.com/adi03-oist/Titanic-Survival-Prediction">
 View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🌐 Aaditya Portfolio
-
-My personal portfolio website showcasing projects, skills and work.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/adi03-oist/aaditya-portfolio">
-View Repository →
-</a>
-
-</td>
-
-<td>
-
-### 📚 Smart Library Locator System
-
-A project focused on making library resource/location discovery easier.
-
-**Tech:** `C++`
-
-<a href="https://github.com/adi03-oist/SMART-LIBRARY-LOCATOR-SYSTEM">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🧠 DSA & LeetCode
-
-<table>
-<tr>
-
-<td width="70%">
-
-### Consistent Practice
-
-I'm currently solving LeetCode problems using Python and trying to improve my logic rather than just memorizing solutions.
-
-**Practicing**
-
-`Arrays` `Strings` `Hashing` `Two Pointers`
-
-`Sliding Window` `Linked List` `Stack` `Queue`
-
-`Binary Search`
-
-</td>
-
-<td align="center">
-
-<a href="https://leetcode.com/u/adii-003/">
-
-<img src="https://img.shields.io/badge/Visit_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-
 </a>
 
 </td>
@@ -320,25 +200,37 @@ I'm currently solving LeetCode problems using Python and trying to improve my lo
 </table>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
+<table width="100%">
+<tr>
+
+<td width="48%" align="center">
+
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi03-oist&theme=tokyonight"
-height="180"
+width="100%"
 alt="GitHub Statistics">
 
-&nbsp;&nbsp;
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" align="center">
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adi03-oist&theme=tokyonight"
-height="180"
+width="100%"
 alt="Top Languages">
 
+</td>
+
+</tr>
+</table>
+
 </div>
----
 
 ## 🔥 GitHub Streak
 
@@ -346,9 +238,12 @@ alt="Top Languages">
 
 <img
 src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true"
-alt="Aaditya Jain GitHub Streak">
+height="165"
+alt="GitHub Streak">
 
 </div>
+
+---
 
 ## 📈 Contribution Activity
 
@@ -357,66 +252,27 @@ alt="Aaditya Jain GitHub Streak">
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true"
 width="100%"
-alt="Aaditya Jain Contribution Activity">
+alt="Contribution Activity">
 
 </div>
+
 ---
 
 ## 📜 Certifications
 
-<table>
+<div align="center">
 
-<tr>
+🐍 **NPTEL – Python for Data Science** &nbsp; • &nbsp;
+🤖 **Tata – GenAI Powered Data Analytics** &nbsp; • &nbsp;
+🚀 **HCL GUVI – Mission Upskill India**
 
-<td width="50%">
-
-### 🐍 NPTEL
-
-**Python for Data Science**
-
-</td>
-
-<td width="50%">
-
-### 🤖 Tata
-
-**GenAI Powered Data Analytics Job Simulation**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🚀 HCL GUVI
-
-**Mission Upskill India**
-
-</td>
-
-<td>
-
-### 🧠 Technical Workshops
-
-**Python • Data Science • OpenCV**
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-
-Let's connect, collaborate and learn together 🚀
-
-<br><br>
 
 <a href="https://github.com/adi03-oist">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
@@ -433,9 +289,5 @@ Let's connect, collaborate and learn together 🚀
 <a href="https://aj-portfolio-jyul0h3l4-aaditya-jains-projects.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel">
 </a>
-
-<br><br>
-
-### 🚀 Code • Learn • Build • Repeat
 
 </div>
