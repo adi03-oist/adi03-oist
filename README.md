@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/aaditya-jain-840200338">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://leetcode.com/u/adii-003/">
@@ -83,46 +83,75 @@ Frontend & backend basics.
 <table width="100%">
 <tr>
 
-<td width="49%" valign="top">
+<td align="center" width="20%">
 
-**🐍 Programming**
+<b>👨‍💻 Programming</b>
 
-`Python` `C` `C++` `JavaScript`
+<br><br>
 
-<br>
-
-**📊 Data Science**
-
-`Pandas` `NumPy` `Matplotlib`  
-`Scikit-learn` `Jupyter` `Kaggle`
+<img src="https://skillicons.dev/icons?i=python" height="40">
+<img src="https://skillicons.dev/icons?i=cpp" height="40">
 
 <br>
 
-**🤖 AI / ML**
-
-`Machine Learning` `OpenCV` `Generative AI`
+Python &nbsp; C++
 
 </td>
 
-<td width="2%"></td>
+<td align="center" width="20%">
 
-<td width="49%" valign="top">
+<b>🌐 Web</b>
 
-**🌐 Web**
+<br><br>
 
-`HTML` `CSS` `JavaScript` `React` `Flask` `Node.js`
-
-<br>
-
-**🗄️ Database**
-
-`MySQL` `MongoDB` `Firebase`
+<img src="https://skillicons.dev/icons?i=html" height="40">
+<img src="https://skillicons.dev/icons?i=css" height="40">
 
 <br>
 
-**🛠️ Tools**
+HTML &nbsp; CSS
 
-`Git` `GitHub` `VS Code` `Vercel`
+</td>
+
+<td align="center" width="20%">
+
+<b>📊 Data Science</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" height="40">
+
+<br>
+
+Python · NumPy · Pandas · Jupyter
+
+</td>
+
+<td align="center" width="20%">
+
+<b>🗄️ Database</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="40">
+
+<br>
+
+MySQL
+
+</td>
+
+<td align="center" width="20%">
+
+<b>🛠️ Tools</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="40">
+
+<br>
+
+Git · GitHub · VS Code · Vercel
 
 </td>
 
@@ -130,7 +159,6 @@ Frontend & backend basics.
 </table>
 
 </div>
-
 ## 🚀 Featured Projects
 
 <table>
@@ -200,14 +228,12 @@ View Repository →
 </table>
 
 ---
-## 📊 GitHub Statistics
-
-<div align="center">
+## 📊 GitHub Statistics & 🔥 GitHub Streak
 
 <table width="100%">
 <tr>
 
-<td width="48%" align="center">
+<td width="50%" align="center" valign="top">
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi03-oist&theme=tokyonight"
@@ -216,35 +242,17 @@ alt="GitHub Statistics">
 
 </td>
 
-<td width="4%"></td>
-
-<td width="48%" align="center">
+<td width="50%" align="center" valign="top">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adi03-oist&theme=tokyonight"
+src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true"
 width="100%"
-alt="Top Languages">
+alt="GitHub Streak">
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true"
-height="165"
-alt="GitHub Streak">
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
