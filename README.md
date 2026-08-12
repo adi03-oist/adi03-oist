@@ -30,8 +30,17 @@
 </a>
 
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/adi03-oist/adi03-oist/output/github-snake-dark.svg">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="130" alt="Coding">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/adi03-oist/adi03-oist/output/github-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/adi03-oist/adi03-oist/output/github-snake.svg"
+       width="100%"
+       alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
