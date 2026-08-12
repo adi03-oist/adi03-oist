@@ -29,6 +29,10 @@
 <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel">
 </a>
 
+<a href="mailto:oist2025@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -310,4 +314,7 @@ alt="Contribution Activity">
 <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel">
 </a>
 
+<a href="mailto:oist2025@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </div>
