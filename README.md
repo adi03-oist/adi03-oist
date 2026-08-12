@@ -65,19 +65,22 @@ I'm a CSE (Data Science) student from Bhopal, currently learning software develo
 
 <td width="42%" valign="top">
 
-## 🎯 Currently Learning
 
-🐍 **Python & DSA**  
-Improving problem solving through practice.
+### 🎯 Currently Learning
 
-📊 **Data Science**  
-Data analysis & ML workflows.
+<div align="center">
 
-🤖 **AI / ML**  
-Exploring AI-based projects.
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+     width="110"
+     alt="Coding">
 
-🌐 **Web Development**  
-Frontend & backend basics.
+<br>
+
+🐍 **Python** &nbsp;•&nbsp; 🧠 **DSA** &nbsp;•&nbsp; 📊 **Data Science** &nbsp;•&nbsp; 🤖 **AI/ML** &nbsp;•&nbsp; 🌐 **Web**
+
+</div>
+
+</td>
 
 </td>
 
