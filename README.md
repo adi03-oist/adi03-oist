@@ -175,6 +175,7 @@ Git · GitHub · VS Code · Vercel
 </table>
 
 </div>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -269,6 +270,7 @@ alt="GitHub Streak">
 
 </tr>
 </table>
+
 ## 📈 Contribution Activity
 
 <div align="center">
