@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adi03-oist/adi03-oist/main/banner.png"
+<img src="https://raw.githubusercontent.com/adi03-oist/adi03-oist/main/banner.gif"
      width="105%"
      alt="Aaditya Jain">
 <br><br>
