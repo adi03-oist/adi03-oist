@@ -3,12 +3,10 @@
 <img src="https://raw.githubusercontent.com/adi03-oist/adi03-oist/main/banner.gif"
      width="105%"
      alt="Aaditya Jain">
-<br><br>
+
 
 <h1>👋 Hi, I'm Aaditya Jain</h1>
-
 <h3>CSE (Data Science) Student • OIST, Bhopal</h3>
-
 <b>Learn • Build • Improve</b>
 
 
