@@ -81,12 +81,12 @@ I'm a CSE (Data Science) student from Bhopal, currently learning software develo
 
 <b>👨‍💻 Programming</b>
 
-<br><br>
+
 
 <img src="https://skillicons.dev/icons?i=python" height="40">
 <img src="https://skillicons.dev/icons?i=cpp" height="40">
 
-<br>
+
 
 Python &nbsp; C++
 
@@ -96,12 +96,12 @@ Python &nbsp; C++
 
 <b>🌐 Web</b>
 
-<br><br>
+
 
 <img src="https://skillicons.dev/icons?i=html" height="40">
 <img src="https://skillicons.dev/icons?i=css" height="40">
 
-<br>
+
 
 HTML &nbsp; CSS
 
@@ -111,11 +111,11 @@ HTML &nbsp; CSS
 
 <b>📊 Data Science</b>
 
-<br><br>
+
 
 <img src="https://skillicons.dev/icons?i=python" height="40">
 
-<br>
+
 
 Python · NumPy · Pandas · Jupyter
 
@@ -125,11 +125,11 @@ Python · NumPy · Pandas · Jupyter
 
 <b>🗄️ Database</b>
 
-<br><br>
+
 
 <img src="https://skillicons.dev/icons?i=mysql" height="40">
 
-<br>
+
 
 MySQL
 
@@ -139,11 +139,11 @@ MySQL
 
 <b>🛠️ Tools</b>
 
-<br><br>
+
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="40">
 
-<br>
+
 
 Git · GitHub · VS Code · Vercel
 
@@ -223,45 +223,27 @@ View Repository →
 </table>
 
 ---
-## 📊 GitHub Statistics & 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
 
-<td width="50%" align="center" valign="top">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi03-oist&theme=tokyonight"
-width="100%"
-alt="GitHub Statistics">
-
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi03-oist&theme=tokyonight" height="180">
 </td>
 
-<td width="50%" align="center" valign="top">
-
-<img
-src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true"
-width="100%"
-alt="GitHub Streak">
-
+<td>
+<img src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true" height="180">
 </td>
 
 </tr>
 </table>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true"
-width="100%"
-alt="Contribution Activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true" width="95%">
 
 </div>
-
----
-
 ## 📜 Certifications
 
 <div align="center">
