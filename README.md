@@ -154,6 +154,30 @@ Git · GitHub · VS Code · Vercel
 
 </div>
 
+---
+---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi03-oist&theme=tokyonight" height="180">
+</td>
+
+<td>
+<img src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true" height="180">
+</td>
+
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true" width="95%">
+
+</div>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -222,28 +246,7 @@ View Repository →
 </tr>
 </table>
 
----
-## 📊 GitHub Stats
 
-<div align="center">
-
-<table>
-<tr>
-
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi03-oist&theme=tokyonight" height="180">
-</td>
-
-<td>
-<img src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true" height="180">
-</td>
-
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true" width="95%">
-
-</div>
 ## 📜 Certifications
 
 <div align="center">
