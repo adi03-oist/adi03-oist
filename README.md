@@ -247,29 +247,17 @@ View Repository →
 
 ---
 
+
 ## 🤝 Connect With Me
-
-
 
 <div align="center">
 
-<a href="https://github.com/adi03-oist">
-  <img src="https://skillicons.dev/icons?i=github" width="45">
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/aaditya-jain-840200338">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45">
-</a>
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/adii-003/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45">
-</a>
-&nbsp;&nbsp;
-
-<a href="mailto:oist2025@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45">
-</a>
+<a href="https://github.com/adi03-oist"><img src="https://skillicons.dev/icons?i=github" width="40"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aaditya-jain-840200338"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/adii-003/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:oist2025@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
 
 </div>
