@@ -11,29 +11,7 @@
 
 <b>Learn • Build • Improve</b>
 
-<br>
 
-<a href="https://github.com/adi03-oist">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/aaditya-jain-840200338">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://leetcode.com/u/adii-003/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
-<a href="https://aj-portfolio-jyul0h3l4-aaditya-jains-projects.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="mailto:oist2025@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/adi03-oist/adi03-oist/output/github-snake-dark.svg">
