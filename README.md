@@ -156,38 +156,41 @@ Git · GitHub · VS Code · Vercel
 
 ---
 ---
+<table width="100%">
+<tr>
+
+<td width="45%" valign="top">
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi03-oist&theme=tokyonight"
+     width="100%"
+     alt="GitHub Statistics">
 
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi03-oist&theme=tokyonight" height="180">
-</td>
+<br>
 
-<td>
-<img src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true" height="180">
-</td>
+<img src="https://streak-stats.demolab.com/?user=adi03-oist&theme=tokyonight&hide_border=true"
+     width="100%"
+     alt="GitHub Streak">
 
-</tr>
-</table>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true"
+     width="100%"
+     alt="Contribution Activity">
 
 </div>
 
+</td>
+
+<td width="55%" valign="top">
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🌾 Farmer Decision System AI
-
-Machine learning project focused on helping farmers make better data-driven decisions.
+Machine learning project for data-driven farming decisions.
 
 **Tech:** `Python` `Pandas` `Machine Learning`
 
@@ -195,13 +198,10 @@ Machine learning project focused on helping farmers make better data-driven deci
 View Repository →
 </a>
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🧠 InvigilateAI
-
-AI-based smart exam supervision system using computer vision.
+AI-based smart exam supervision using computer vision.
 
 **Tech:** `Python` `OpenCV` `Streamlit`
 
@@ -209,17 +209,10 @@ AI-based smart exam supervision system using computer vision.
 View Repository →
 </a>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### 🏠 House Price Prediction
-
-Machine learning project for predicting house prices from available features.
+Machine learning model for house price prediction.
 
 **Tech:** `Python` `Pandas` `Scikit-learn`
 
@@ -227,13 +220,10 @@ Machine learning project for predicting house prices from available features.
 View Repository →
 </a>
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🚢 Titanic Survival Prediction
-
-Machine learning project for analyzing and predicting passenger survival.
+Machine learning project for passenger survival prediction.
 
 **Tech:** `Python` `Pandas` `Scikit-learn`
 
@@ -245,8 +235,6 @@ View Repository →
 
 </tr>
 </table>
-
-
 ## 📜 Certifications
 
 <div align="center">
