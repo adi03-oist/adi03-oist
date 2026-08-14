@@ -276,25 +276,27 @@ alt="Contribution Activity">
 
 ## 🤝 Connect With Me
 
+
+
 <div align="center">
 
 <a href="https://github.com/adi03-oist">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://skillicons.dev/icons?i=github" width="45">
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aaditya-jain-840200338">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/adii-003/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45">
 </a>
-
-<a href="https://aj-portfolio-jyul0h3l4-aaditya-jains-projects.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel">
-</a>
+&nbsp;&nbsp;
 
 <a href="mailto:oist2025@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45">
 </a>
+
 </div>
