@@ -175,9 +175,7 @@ Git · GitHub · VS Code · Vercel
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adi03-oist&theme=tokyo-night&hide_border=true&area=true"
-     width="100%"
-     alt="Contribution Activity">
+
 
 </div>
 
