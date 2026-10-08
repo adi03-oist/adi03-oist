@@ -218,14 +218,7 @@ View Repository →
 
 ---
 
-### 🚢 Titanic Survival Prediction
-Machine learning project for passenger survival prediction.
 
-**Tech:** `Python` `Pandas` `Scikit-learn`
-
-<a href="https://github.com/adi03-oist/Titanic-Survival-Prediction">
-View Repository →
-</a>
 
 </td>
 
